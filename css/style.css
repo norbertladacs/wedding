@@ -1071,6 +1071,12 @@ color: #b08c3e;
     text-transform: uppercase;
     letter-spacing: 3px;
 }
+.bride-groom .info h5 {
+    font-size: 14px;
+    margin-bottom: 2px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 3px;
+}
 .bride-groom .info h6 i {
     color: #b08c3e;
     font-size: 16px;
